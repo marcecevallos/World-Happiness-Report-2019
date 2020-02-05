@@ -5,4 +5,8 @@ https://marcecevallos.github.io/World-Happiness-Report-2019/Does%20money%20buy%2
 
 Special thanks to: Towards Data Science with their amazing articles and codes that work as basis for the bar chart. (https://towardsdatascience.com/create-animated-bar-charts-using-r-31d09e5841da)  
 
+All information related can be found at Ñ
+https://worldhappiness.report/ed/2019/
+or the World Bank 
+
 Note: Please bear in mind that the objective here is the display of graphs rather that the econometric grueling or analysis :)
